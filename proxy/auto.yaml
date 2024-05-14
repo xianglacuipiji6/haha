@@ -1,0 +1,4 @@
+payload:
+  # bt
+  - DOMAIN-SUFFIX,smtp
+  - DOMAIN-KEYWORD,ar
